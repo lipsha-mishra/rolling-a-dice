@@ -1,3 +1,5 @@
+# This is a program of "rolling a dice"
+
 import random
 min = 1
 max = 6
@@ -12,3 +14,5 @@ while roll_again == "yes" or roll_again == "y":
 
     roll_again = raw_input("Roll the dices again?")
 print("thanks for using me")
+
+# End of the program
